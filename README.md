@@ -1,0 +1,1 @@
+# Simulador_de_Cache__Cache_Simualtor__C
