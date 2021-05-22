@@ -11,6 +11,7 @@
 ## Compilación de las trazas
     gcc -Wall -o traza_2 traza_2.c
     gcc -Wall -o traza traza.c
+    /* esto lo hace el make file en play# */
 
 
 ## Ejecucion:
