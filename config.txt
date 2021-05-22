@@ -1,0 +1,4 @@
+Nlin: 1024
+Tlin: 64
+Asoc: 1
+VC: 64
